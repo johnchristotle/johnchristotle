@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnchristotle
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Full-Stack Web Developemt
+- 👀 I’m a Full Stack Web Developer/Blockchain Engineer 
+- 🌱 I’m currently Seeking for an oportunity to prove myself
 - 💞️ I’m looking to collaborate with other great minds.
 - 📫 reach me via Linkedin: https://www.linkedin.com/in/christian-agholor-0182a288/
 
