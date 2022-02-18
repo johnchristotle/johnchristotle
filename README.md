@@ -3,7 +3,7 @@
 - 🌱 I’m currently Seeking for an oportunity to prove myself
 - 💞️ I’m looking to collaborate with other great minds.
 - 📫 reach me via Linkedin: https://www.linkedin.com/in/christian-agholor-0182a288/
-- Reach me on +234(0)7064931387
+
 
 <!---
 johnchristotle/johnchristotle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
