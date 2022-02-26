@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Christotle Agholor @johnchristotle
 
-![Christotle Agholor](https://user-images.githubusercontent.com/10975011/90856334-9c3cce00-e379-11ea-9461-629f11d958f4.png)
+![Christotle Agholor]()
 
 I always prefer to use the best tools for the job: 
 Material UI, to create realistic prototype to tell stories and bring ideas to live faster. 
