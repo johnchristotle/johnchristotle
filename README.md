@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Christotle Agholor @johnchristotle
+### Hi there 👋, I'm Christotle Agholor - Full-Stack Developer, Blockchain Engineer.
 
 ![Christotle Agholor]()
 
