@@ -2,13 +2,7 @@
 
 ![Christotle Agholor]()
 
-I always prefer to use the best tools for the job:  |   Material UI, to create realistic prototype to tell stories and bring ideas to live faster.
-
-React, for the rich interactive client side application.  |  Solidity/Web3, for fast decentralize coding.
-
-Ruby and Rails, for backend MVPs and simple website.  |  Node.js, when I need to speed up my backend.
-
-JavaScript/Python, when the project will have data analytics.
+I always prefer to use the best tools for the job:  |   Material UI, to create realistic prototype to tell stories and bring ideas to live faster.  |  React, for the rich interactive client side application.  |  Solidity/Web3, for fast decentralize coding.  |  Ruby and Rails, for backend MVPs and simple website.  |  Node.js, when I need to speed up my backend.  |  JavaScript/Python, when the project will have data analytics.
 
 One step in a time. And a small step. Valuable step. Removing waste. Eliminating bottleneck. Advancing.
 
