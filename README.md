@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Christotle Agholor - Full-Stack Developer, Blockchain Engineer.
+### Hi there 👋, I'm John Christotle (Agholor) - Full-Stack Developer, Blockchain Engineer.
 
 
 I always prefer to use the best tools for the job:  |   Material UI, to create realistic prototype to tell stories and bring ideas to live faster.  |  React, for the rich interactive client side application.  |  Solidity/Web3, for fast decentralize coding.  |  Ruby and Rails, for backend MVPs and simple website.  |  Node.js, when I need to speed up my backend.  |  JavaScript/Python, when the project will have data analytics.
