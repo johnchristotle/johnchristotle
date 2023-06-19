@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm John Christotle (Agholor) - Full-Stack Developer, Blockchain Engineer.
 
 
-I always prefer to use the best tools for the job:  |   Material UI/Chakra UI, to create realistic prototype to tell stories and bring ideas to live faster.  |  NextJS/React, for the rich interactive client side application.  |  Solidity/Web3, for fast decentralize coding.  |  Ruby and Rails, for backend MVPs and simple website.  |  Node.js, when I need to speed up my backend.  |  JavaScript/Python, when the project will have data analytics.
+I always prefer to use the best tools for the job:  |   Material UI/Chakra UI, to create realistic prototype to tell stories and bring ideas to live faster.  |  NextJS/React.js, for the rich interactive client side application.  |  Solidity/Web3, for fast decentralize coding.  |  Node.js, when I need to speed up my backend.  |  JavaScript, when the project will have data analytics.
 
 One step at a time. And a small step. Valuable step. Removing waste. Eliminating bottleneck. Advancing.
 
 Send me a Linkedin message and let's talk!
 
 
-Skills: JavaScript / React/Redux / Material-UI / AWS / Solidity/Web3 / Blockchain / Ruby and Rails /
+Skills: JavaScript / Node.js / React.js / MySQL / MongoDB / AWS / Solidity/Web3 / Next.js /
 
 Tech: MERN Stack
 
