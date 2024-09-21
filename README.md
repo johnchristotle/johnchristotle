@@ -8,7 +8,7 @@ One step at a time. And a small step. Valuable step. Removing waste. Eliminating
 Send me a Linkedin message and let's talk!
 
 
-Skills: JavaScript / Node.js / React.js / MySQL / MongoDB / AWS / Solidity/Web3 / Next.js / PHP / Wordpress Developer
+Skills: JavaScript / Typescript / Node.js / React.js / MySQL / MongoDB / AWS / Solidity/Web3 / Next.js / PHP / Wordpress Developer
 
 Tech: MERN Stack
 
